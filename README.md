@@ -1,0 +1,1 @@
+# Biblioteca-Offline-ESP32
